@@ -13,7 +13,7 @@ author_profile: true
 
 
 ### Swiss Federal Institute of Technology, Zürich (ETH)
-From Oktober 1987 to June 1991
+From October 1987 to June 1991
 
 Master May 1992
 
