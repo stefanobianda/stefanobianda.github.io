@@ -24,10 +24,10 @@ From September 1983 to June 1987
 
 High school, Typ C (Scientific)
 
-### Middle Schools, Losone
+### Middle School, Losone
 From September 1979 to June 1983
 
 
-### Elementary Schools, Solduno & Losone
+### Elementary School, Solduno & Losone
 From September 1974 to June 1979
 
