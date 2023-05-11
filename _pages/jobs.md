@@ -1,15 +1,18 @@
 ---
+layout: collection
+title: "My working career"
+excerpt: "all around software development"
 permalink: /jobs/
-layout: single
-title: Carrier 
-tagline: Current work at Viseca Payment Services SA
-toc: true
-header:
-  overlay_image: /assets/images/under-construction-2891888__480.jpg
-  og_image: /assets/images/under-construction-2891888__480.jpg
+collection: jobs
+entries_layout: grid
+classes: wide
 author_profile: true
+sort_by: order_number
+header:
+  overlay_image: /assets/images/codice-binario-byte.jpg
+  og_image: /assets/images/codice-binario-byte.jpg
+  teaser: /assets/images/codice-binario-byte.jpg
+  text-color: black
 ---
 
-
-
-Under construction
+Positions held in the work environment since I completed my master's degree in electrical engineering

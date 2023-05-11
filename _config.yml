@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "stefano-bianda-0b73252a/"
 
 # Site Footer
 footer:
@@ -150,12 +153,16 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "stefano-bianda-0b73252a/"
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - _jobs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -277,6 +284,12 @@ compress_html:
   ignore:
     envs: development
 
+# Define the own collection
+collections:
+  jobs:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: order_number
 
 # Defaults
 defaults:
@@ -291,3 +304,12 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _jobs
+  - scope:
+      path: ""
+      type: jobs
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      counter: 1
