@@ -1,6 +1,6 @@
 ---
 title: "La Posta"
-permalink: /jobs/LaPosta/
+permalink: /jobs/J03LaPosta/
 excerpt: "Software Development Engineer"
 layout: single
 redirect_from:
@@ -11,6 +11,12 @@ header:
   overlay_image: /assets/images/LaPostaPaccoTransito.jpg
   og_image: /assets/images/LaPostaPaccoTransito.jpg
   teaser: /assets/images/LaPostaPaccoTransito.jpg
+prev:
+  url: /jobs/J02Schindler/
+  title: J02Schindler
+next:
+  url: /jobs/J04Schindler/
+  title: J04Schindler
 ---
 
 ToDo ...

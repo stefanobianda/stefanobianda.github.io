@@ -15,9 +15,12 @@ author_profile: true
 ### Swiss Federal Institute of Technology, Zürich (ETH)
 From October 1987 to June 1991
 
-Master May 1992
+Master May 1992 as Electronic Engineer
 
-Diplom as Electronic Engineer
+Master on VLSI, see the [Sigma Delta Converter](http://asic.ethz.ch/1991/Sigma.html) chip made by me and Francesco Piazza
+
+
+
 
 ### High School, Locarno
 From September 1983 to June 1987
