@@ -1,15 +1,17 @@
 ---
+layout: collection
+title: Certifications
+excerpt: ""
 permalink: /certifications/
-layout: single
-title: Certifications 
+collection: certifications
+entries_layout: list
+classes: wide
+sort_by: date
+sort_order: reverse
 tagline: All my certifications
 toc: true
 header:
-  overlay_image: /assets/images/under-construction-2891888__480.jpg
-  og_image: /assets/images/under-construction-2891888__480.jpg
+  overlay_image: /assets/images/CertificatesBackground.jpg
+  og_image: /assets/images/CertificatesBackground.jpg
 author_profile: true
 ---
-
-
-
-Under construction

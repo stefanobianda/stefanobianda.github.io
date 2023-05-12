@@ -2,7 +2,6 @@
 layout: collection
 title: "My working career"
 excerpt: "all around software development"
-color: black
 permalink: /jobs/
 collection: jobs
 entries_layout: grid

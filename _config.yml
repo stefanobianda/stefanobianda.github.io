@@ -290,6 +290,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     sort_by: order_number
+  certifications:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: date
 
 # Defaults
 defaults:
@@ -312,4 +316,11 @@ defaults:
       layout: single
       author_profile: false
       share: false
-      counter: 1
+  # _certifications
+  - scope:
+      path: ""
+      type: certifications
+    values:
+      layout: single
+      author_profile: false
+      share: false
