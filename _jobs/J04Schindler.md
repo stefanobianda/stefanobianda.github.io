@@ -18,5 +18,21 @@ next:
   url: /jobs/J05Viseca/
   title: J05Viseca
 ---
+# Description
+ToDo...
 
-ToDo ...
+# Tools used
+ToDo...
+
+# Main tasks
+Responsible for the elevator embedded core software, multi task, UML
+
+Requirement, iteration plan, quality improve and test strategy
+
+Managing team’s backlog and product quality
+
+Code languages
+- C++
+- C
+
+Lead teams (on-site, near and offshore), hiring

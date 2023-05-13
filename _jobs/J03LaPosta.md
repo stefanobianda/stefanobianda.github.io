@@ -18,5 +18,20 @@ next:
   url: /jobs/J04Schindler/
   title: J04Schindler
 ---
+# Description
+ToDo...
 
-ToDo ...
+# Tools used
+J2EE (JAVA)
+
+
+
+# Main tasks
+Develop JAVA Web Applications
+- IOA International Online Application, replaced by [bulk mailing](https://www.post.ch/en/sending-letters/bulk-mailing-of-letters/international-bulk-mailings)
+- SGO Service Guide Online, replaced by [Calculate prices](https://service.post.ch/vsc/info)
+- Packet Builder (GUI section)
+
+Using Oracle DB
+
+Implementation with EJB

@@ -15,5 +15,30 @@ next:
   url: /jobs/J02Schindler/
   title: J02Schindler
 ---
+# Description
+Schindler is one of the largest industries in the elevator market.
+Locarno produces some electronic PCBs for different types of elevators.
 
-ToDo ...
+To test the PCBs produced, Schindler purchased the GenRad GR2756.
+
+The GenRad GR2756 is a complex system with many instruments.
+The measuring instruments of the GR2756 system are connected to the PCB via a nail board.
+The developed program uses a variety of measuring instruments and verifies the correct assembly of components on the PCB.
+
+# Tools used
+workstation unix
+
+PC WindowsNT
+
+shell scripts
+
+# Main tasks
+Introduction of the new system GenRad GR2756
+
+Develop and assure the quality of the test program
+
+Generate the required file for the building of the nail board
+
+Work on the statistic program TRACS, control system on the repair of defective PCBs
+
+IT infrastructure of the team, UNIX and Windows NT

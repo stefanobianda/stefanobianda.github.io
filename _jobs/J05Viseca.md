@@ -18,5 +18,15 @@ next:
   url: /jobs/J06Viseca/
   title: J06Viseca
 ---
+# Description
+ToDo...
 
-ToDo ...
+# Tools used
+ToDo...
+
+# Main tasks
+Maintenance and support for applications in the credit card payment environment
+
+Support the new application Surprize
+
+Support the Terminal Card Reader
