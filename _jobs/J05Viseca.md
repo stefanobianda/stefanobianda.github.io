@@ -5,6 +5,7 @@ excerpt: "Senior Application Manager"
 layout: single
 redirect_from:
   - /theme-setup/
+author_profile: true
 toc: true
 order_number: 5
 header:

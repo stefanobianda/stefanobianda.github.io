@@ -19,6 +19,6 @@ AXELOS Global Best Practice
 
 ![image info](/assets/images/axelosLogo.jpeg)
 
-Released on: december 2021
+Released on: December 2021
 
 ID credential GR679001570SB

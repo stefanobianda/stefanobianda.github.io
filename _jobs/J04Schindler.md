@@ -5,6 +5,7 @@ layout: single
 excerpt: "Head of Software Development by R&D-CO"
 redirect_from:
   - /theme-setup/
+author_profile: true
 toc: true
 order_number: 4
 header:

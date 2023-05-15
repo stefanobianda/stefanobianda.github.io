@@ -19,4 +19,4 @@ ISTQB® - International Software Testing Qualifications BoardI
 
 ![image info](/assets/images/ISTQBLogo.jpeg)
 
-Release date: april 2017
+Release date: April 2017

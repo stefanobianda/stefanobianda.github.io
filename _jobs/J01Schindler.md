@@ -5,6 +5,7 @@ layout: single
 excerpt: "Engineer for Tecnica Qualità Print"
 redirect_from:
   - /theme-setup/
+author_profile: true
 toc: true
 order_number: 1
 header:

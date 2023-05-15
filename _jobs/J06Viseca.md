@@ -5,6 +5,7 @@ excerpt: "Head IT Application Development"
 layout: single
 redirect_from:
   - /theme-setup/
+author_profile: true
 toc: true
 order_number: 6
 header:

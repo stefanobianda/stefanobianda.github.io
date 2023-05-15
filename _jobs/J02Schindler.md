@@ -5,6 +5,7 @@ excerpt: "Software Development by R&D DT-COM"
 layout: single
 redirect_from:
   - /theme-setup/
+author_profile: true
 toc: true
 order_number: 2
 header:
