@@ -19,6 +19,9 @@ next:
   url: 
   title: 
 ---
+# Working Period
+Since April 2017
+
 # Description
 In Viseca Payment Services and in Viseca Card Services we are developing different applications.
 
@@ -46,7 +49,7 @@ The Jenkins shared pipeline supports different languages used by different stake
 - Typescript
 - Images for docker
 
-# Tools used
+# Tools Used
 Source Control: GitHub Enterprise
 
 Responsible for the tools:
@@ -59,7 +62,7 @@ Responsible for the tools:
 
 Programming languages: Groovy and Java
 
-# Main tasks
+# Main Tasks
 Product Owner and Scrum Master of CICD shared pipeline
 - Stakeholder meeting, daily StandUp
 

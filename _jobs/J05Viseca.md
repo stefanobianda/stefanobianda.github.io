@@ -19,13 +19,16 @@ next:
   url: /jobs/J06Viseca/
   title: J06Viseca
 ---
+# Working Period
+From April 2012 to July 2013
+
 # Description
 ToDo...
 
-# Tools used
+# Tools Used
 ToDo...
 
-# Main tasks
+# Main Tasks
 Maintenance and support for applications in the credit card payment environment
 
 Support the new application Surprize

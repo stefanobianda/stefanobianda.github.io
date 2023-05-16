@@ -19,6 +19,9 @@ next:
   url: /jobs/J03LaPosta/
   title: J03LaPosta
 ---
+# Working Period
+From  May 1998 to January 2001
+
 # Description
 Schindler is working on a new elevator system using new technology and new concept. 
 The main scope is a low cost and configurable elevator (SMART).
@@ -37,7 +40,7 @@ Depending on the new functionality implemented in the iteration, we define the t
 All bugs are collected in a bug tracking system. 
 We are managing the priority of the bugs and planing the fix of it.
 
-# Tools used
+# Tools Used
 UML tool: Rational Rose 98
 
 OS: Linux Real Time with multi task
@@ -46,7 +49,7 @@ Programming Language: C++
 
 Source Control: SouceSafe
 
-# Main tasks
+# Main Tasks
 Project Leader with RUP methodology
 
 Define concept of Test Cases, Test Strategy and Test Agreement
