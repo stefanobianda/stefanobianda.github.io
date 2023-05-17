@@ -19,16 +19,22 @@ next:
   url: /jobs/J05Viseca/
   title: J05Viseca
 ---
-# Working Period
+# Schindler
+
+![Schindler](/assets/images/schindler-hd-logo-thumbnail.png)
+
+[www.schindler.ch](https://www.schindler.ch)
+
+## Working Period
 From  September 2005 to December 2011
 
 # Description
 ToDo...
 
-# Tools Used
+## Tools Used
 ToDo...
 
-# Main Tasks
+## Main Tasks
 Responsible for the elevator embedded core software, multi task, UML
 
 Requirement, iteration plan, quality improve and test strategy

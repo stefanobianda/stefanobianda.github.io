@@ -16,10 +16,16 @@ next:
   url: /jobs/J02Schindler/
   title: J02Schindler
 ---
-# Working Period
+# Schindler
+
+![Schindler](/assets/images/schindler-hd-logo-thumbnail.png)
+
+[www.schindler.ch](https://www.schindler.ch)
+
+## Working Period
 From June 1992 to April 1998
 
-# Description
+## Description
 Schindler is one of the largest industries in the elevator market.
 Locarno produces some electronic PCBs for different types of elevators.
 
@@ -29,14 +35,14 @@ The GenRad GR2756 is a complex system with many instruments.
 The measuring instruments of the GR2756 system are connected to the PCB via a nail board.
 The developed program uses a variety of measuring instruments and verifies the correct assembly of components on the PCB.
 
-# Tools Used
+## Tools Used
 workstation unix
 
 PC WindowsNT
 
 shell scripts
 
-# Main Tasks
+## Main Tasks
 Introduction of the new system GenRad GR2756
 
 Develop and assure the quality of the test program
