@@ -29,10 +29,31 @@ next:
 From  September 2005 to December 2011
 
 # Description
-ToDo...
+Head software development R&D of the most successful, most worldwide sold elevator of Schindler.
+
+Responsible for full cycle development of the elevator software solution,
+with teams distributed in Locarno, Ebikon and Stuttgart, and external partners (BBV - Lucerne)
+
+Thanks to my great team, we are extending the capabilities of our product.
+We support different traction system, different doors type, double entrances, duplex system, 25 floors.
+
+One of my goal was to improve the quality of our main software and
+I'm proud to say that the MTBF is increased from 2 to 12 months.
+
+The main controller software and the Car Operating Panel (COP) are written in C++, 
+the Landing Operating Panels (LOP) are written in assembler.
+
+The common used protocol for the communication is the CAN bus,
+exception are the LOP's that are using a proprietary protocol called Biobus.
 
 ## Tools Used
-ToDo...
+Clear Case
+
+Clear Quest
+
+Rational Rose 98
+
+
 
 ## Main Tasks
 Responsible for the elevator embedded core software, multi task, UML
@@ -44,5 +65,6 @@ Managing team’s backlog and product quality
 Code languages
 - C++
 - C
+- Assempler
 
 Lead teams (on-site, near and offshore), hiring
