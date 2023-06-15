@@ -19,10 +19,16 @@ next:
   url: /jobs/J04Schindler/
   title: J04Schindler
 ---
-# Working Period
+# Swiss Post
+
+![Post](/assets/images/PostNewLogo.png)
+
+[www.post.ch](https://www.post.ch/)
+
+## Working Period
 From  February 2001 to August 2005
 
-# Description
+## Description
 I'm developing the International Online Application (IOA), 
 the application is a digitalization of a manual process.
 
@@ -38,12 +44,12 @@ The IOA use a Oracle DB to keep all catalogue items and prices.
 I'm using EJB to collect the required data from the Oracle DB.
 
 For the other application (see [here](#main-tasks)) I just collaborate with my great colleagues.
-# Tools Used
+## Tools Used
 J2EE (JAVA)
 
 Source Control: SVN 
 
-# Main Tasks
+## Main Tasks
 Develop JAVA Web Applications
 - IOA International Online Application, replaced by [bulk mailing](https://www.post.ch/en/sending-letters/bulk-mailing-of-letters/international-bulk-mailings)
 - SGO Service Guide Online, replaced by [Calculate prices](https://service.post.ch/vsc/info)

@@ -19,6 +19,12 @@ next:
   url: /jobs/J06Viseca/
   title: J06Viseca
 ---
+# Viseca
+
+![Viseca](/assets/images/L_VIS_MCV_A4_4f_rgb_1707.png)
+
+[www.viseca.ch](https://www.viseca.ch/)
+
 # Working Period
 From April 2012 to July 2013
 
