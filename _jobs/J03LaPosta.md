@@ -54,4 +54,4 @@ Using Oracle DB
 Implementation with EJB
 
 ## Job reference
-Download the job reference: [Italian](/asset/files/Posta.pdf) version
+Download the job reference: [Italian](/assets/files/Posta.pdf) version
