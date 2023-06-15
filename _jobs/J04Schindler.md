@@ -28,7 +28,7 @@ next:
 ## Working Period
 From  September 2005 to December 2011
 
-# Description
+## Description
 Head software development R&D of the most successful, most worldwide sold elevator of Schindler.
 
 Responsible for full cycle development of the elevator software solution,

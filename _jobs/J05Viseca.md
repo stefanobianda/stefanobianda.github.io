@@ -25,16 +25,16 @@ next:
 
 [www.viseca.ch](https://www.viseca.ch/)
 
-# Working Period
+## Working Period
 From April 2012 to July 2013
 
-# Description
+## Description
 ToDo...
 
-# Tools Used
+## Tools Used
 ToDo...
 
-# Main Tasks
+## Main Tasks
 Maintenance and support for applications in the credit card payment environment
 
 Support the new application Surprize

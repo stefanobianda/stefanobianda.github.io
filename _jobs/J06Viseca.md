@@ -19,10 +19,16 @@ next:
   url: /jobs/J07Viseca/
   title: J07Viseca
 ---
-# Working Period
+# Viseca
+
+![Viseca](/assets/images/L_VIS_MCV_A4_4f_rgb_1707.png)
+
+[www.viseca.ch](https://www.viseca.ch/)
+
+## Working Period
 From August 2013 to March 2017
 
-# Description
+## Description
 In my role, I'm leading different applications
 
 Previously each application was developed in independent team.
@@ -40,7 +46,7 @@ and in some cases the projects are using the Test Driven Development (TDD) proce
 
 I'm setting up the build server with Jenkins and a first approach to a CICD pipeline.
 
-# Tools Used
+## Tools Used
 ServiceNow SNOW
 
 JIRA
@@ -51,7 +57,7 @@ Github
 
 Jenkins
 
-# Main Tasks
+## Main Tasks
 Responsible for the Aduno Gruppe (old Viseca company) applications
 
 WEB sites, WEB applications, Web Services, CRM Issuing, Acquirer Suite
