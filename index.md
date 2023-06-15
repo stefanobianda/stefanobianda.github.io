@@ -22,3 +22,4 @@ I grouped different teams and align the strategy of building the software using 
 I coordinated and lead complex projects, I solved many problems by analysing and understanding the root cause.
 
 I love technology and aim to create added value for my stakeholder using my creativity and innovate tools and processes.
+
