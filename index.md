@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: "Hello"
 excerpt: "Software is my passion"
+toc: true
 header:
   overlay_image: /assets/images/cicd-pipeline-flash.jpg
   og_image: /assets/images/cicd-pipeline-flash.jpg
