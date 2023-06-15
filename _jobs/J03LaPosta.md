@@ -52,3 +52,6 @@ Develop JAVA Web Applications
 Using Oracle DB
 
 Implementation with EJB
+
+## Job reference
+Download the job reference: [Italian](/asset/files/Posta.pdf) version

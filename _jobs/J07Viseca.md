@@ -77,3 +77,6 @@ Developing the team’s technical proficiency and growing
 Introduces and improves to software development automations (CI/CD)
 
 Keep CICD infrastructure up-to-date, LCM activities
+
+## Job reference
+Download the job reference: [Italian](/asset/files/Viseca-it.pdf) version or [German](/asset/files/Viseca-de.pdf) version

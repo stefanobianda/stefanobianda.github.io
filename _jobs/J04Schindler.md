@@ -68,3 +68,6 @@ Code languages
 - Assempler
 
 Lead teams (on-site, near and offshore), hiring
+
+## Job reference
+Download the job reference: [Italian](/asset/files/SchindlerSecondo.pdf) version

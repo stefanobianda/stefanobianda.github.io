@@ -9,6 +9,7 @@ header:
   teaser: /assets/images/cicd-pipeline-flash.jpg
 posts: false
 ---
+## Job experience
 I have a strong experience in software development.
 
 For 25 years I am leading projects as Technical Project Leader and 15+ years as Head of the development team in embedded and web applications.
@@ -23,3 +24,5 @@ I coordinated and lead complex projects, I solved many problems by analysing and
 
 I love technology and aim to create added value for my stakeholder using my creativity and innovate tools and processes.
 
+## Curriculum Vitae
+Download my [CV](/assets/files/StefanoBiandaCV-EN.pdf)
