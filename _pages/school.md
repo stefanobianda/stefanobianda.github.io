@@ -19,7 +19,7 @@ Master May 1992 as Electronic Engineer
 
 Master on VLSI, see the [Sigma Delta Converter](http://asic.ethz.ch/1991/Sigma.html) chip made by me and Francesco Piazza
 
-Documents: [diplom](/asset/files/Diploma.pdf) and [school grades](/asset/files/DiplomaNote.pdf)
+Documents: [diplom](/assets/files/Diploma.pdf) and [school grades](/assets/files/DiplomaNote.pdf)
 
 
 ### High School, Locarno
@@ -27,7 +27,7 @@ From September 1983 to June 1987
 
 High school, Typ C (Scientific)
 
-Document: [school grades](/asset/files/Maturita.pdf)
+Document: [school grades](/assets/files/Maturita.pdf)
 
 ### Middle School, Losone
 From September 1979 to June 1983
