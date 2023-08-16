@@ -1,5 +1,5 @@
 ---
-title: "ITIL 4"
+title: "ITIL4 Leader"
 permalink: /certifications/ITIL4LeaderDigitalITStrategy/
 layout: single
 excerpt: "Certified ITIL® 4 Leader: Digital & IT Strategy was issued by AXELOS to Stefano Bianda."
