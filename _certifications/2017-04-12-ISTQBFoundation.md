@@ -1,6 +1,6 @@
 ---
 title: "ISTQB Foundation"
-permalink: /jobs/ISTQBFoundation/
+permalink: /certifications/ISTQBFoundation/
 layout: single
 excerpt: "Certified ISTQB Foundation was issued by ISTQB to Stefano Bianda."
 author_profile: true
@@ -19,4 +19,4 @@ ISTQB® - International Software Testing Qualifications BoardI
 
 ![image info](/assets/images/ISTQBLogo.jpeg)
 
-Release date: April 2017
+Release date: 12 April 2017

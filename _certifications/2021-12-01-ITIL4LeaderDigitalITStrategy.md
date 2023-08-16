@@ -1,6 +1,6 @@
 ---
 title: "ITIL 4"
-permalink: /jobs/ITIL4LeaderDigitalITStrategy/
+permalink: /certifications/ITIL4LeaderDigitalITStrategy/
 layout: single
 excerpt: "Certified ITIL® 4 Leader: Digital & IT Strategy was issued by AXELOS to Stefano Bianda."
 author_profile: true

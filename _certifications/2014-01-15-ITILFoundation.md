@@ -1,6 +1,6 @@
 ---
 title: "ITIL Foundation"
-permalink: /jobs/ITILFoundation/
+permalink: /certifications/ITILFoundation/
 layout: single
 excerpt: "Certified ITIL Foundation was issued by AXELOS to Stefano Bianda."
 author_profile: true

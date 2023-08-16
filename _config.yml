@@ -294,7 +294,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     sort_by: date
-
+  courses:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: date
 # Defaults
 defaults:
   # _posts
@@ -320,6 +323,14 @@ defaults:
   - scope:
       path: ""
       type: certifications
+    values:
+      layout: single
+      author_profile: false
+      share: false
+  # _courses
+  - scope:
+      path: ""
+      type: courses
     values:
       layout: single
       author_profile: false
