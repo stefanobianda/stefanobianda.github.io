@@ -11,7 +11,7 @@ sort_order: reverse
 tagline: All my courses
 toc: true
 header:
-  overlay_image: /assets/images/CertificatesBackground.jpg
-  og_image: /assets/images/CertificatesBackground.jpg
+  overlay_image: /assets/images/training-backimage.jpg
+  og_image: /assets/images/training-backimage.jpg
 author_profile: true
 ---
