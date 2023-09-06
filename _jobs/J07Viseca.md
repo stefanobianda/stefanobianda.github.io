@@ -26,7 +26,7 @@ next:
 [www.viseca.ch](https://www.viseca.ch/)
 
 ## Working Period
-Since April 2017
+From April 2017 to August 2023 
 
 ## Description
 In Viseca Payment Services and in Viseca Card Services we are developing different applications.
