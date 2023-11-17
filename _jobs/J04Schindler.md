@@ -70,4 +70,4 @@ Code languages
 Lead teams (on-site, near and offshore), hiring
 
 ## Job reference
-Download the job reference: [Italian](/assets/files/SchindlerSecondo.pdf) version
+I will send the reference by e-mail on request.

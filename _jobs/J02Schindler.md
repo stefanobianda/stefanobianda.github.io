@@ -69,4 +69,4 @@ Use Case Analysis and write the Softare Requirement Specification (SRS)
 Object Oriented Design (OOD) with UML, generate code with Rational Rose 98
 
 ## Job reference
-Download the job reference: [Italian](/assets/files/SchindlerPrimo.pdf) version
+I will send the reference by e-mail on request.
