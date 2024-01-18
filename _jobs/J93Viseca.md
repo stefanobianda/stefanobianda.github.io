@@ -7,7 +7,7 @@ redirect_from:
   - /theme-setup/
 author_profile: true
 toc: true
-order_number: 7
+order_number: 93
 header:
   overlay_image: /assets/images/cicd-pipeline-art.jpg
   og_image: /assets/images/cicd-pipeline-art.jpg

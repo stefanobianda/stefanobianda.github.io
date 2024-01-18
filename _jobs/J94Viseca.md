@@ -7,7 +7,7 @@ redirect_from:
   - /theme-setup/
 author_profile: true
 toc: true
-order_number: 6
+order_number: 94
 header:
   overlay_image: /assets/images/VisecaCardGeneral.jpg
   og_image: /assets/images/VisecaCardGeneral.jpg

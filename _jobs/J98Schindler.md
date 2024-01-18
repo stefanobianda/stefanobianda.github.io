@@ -7,7 +7,7 @@ redirect_from:
   - /theme-setup/
 author_profile: true
 toc: true
-order_number: 2
+order_number: 98
 header:
   overlay_image: /assets/images/schindler-aufzuege-hochhaus-frankfurt-skyline-1.jpg
   og_image: /assets/images/schindler-aufzuege-hochhaus-frankfurt-skyline-1.jpg
