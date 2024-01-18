@@ -7,7 +7,7 @@ redirect_from:
   - /theme-setup/
 author_profile: true
 toc: true
-order_number: 5
+order_number: 95
 header:
   overlay_image: /assets/images/surprize-main.jpg
   og_image: /assets/images/surprize-main.jpg

@@ -7,7 +7,7 @@ collection: jobs
 entries_layout: grid
 classes: wide
 author_profile: true
-sort_by: order_number | reverse
+sort_by: order_number
 header:
   overlay_image: /assets/images/codice-binario-byte.jpg
   og_image: /assets/images/codice-binario-byte.jpg
