@@ -29,22 +29,22 @@ next:
 From August 2013 to March 2017
 
 ## Description
-In my role, I'm leading different applications
+I was responsible for about 50 software engineers and several web applications.
 
-Previously each application was developed in independent team.
+Previously, each application was developed by an independent team.
 Each team was free to use tools and processes.
 
-After an internal reorganization, I take over the role.
-The first aspect I did, it's a common approach and the use of the same tools
+After an internal reorganization, I took on the role of head IT Application Development.
+The first thing I did was to align the development of projects and thus also the use of the same tools.
 
-I have introduced the GitHub source control based on Git and migrate all applications.
+I introduced the GitHub tool as version control and asked to migrate all applications.
+I also enforce the use of Gitflow as Git branching model.
 
-The company decide to introduce the ITIL strategy and we start using ServiceNow
+The company focused on ITIL methodology and we started using ServiceNow.
 
-I'm enforcing the use of unit test, 
-and in some cases the projects are using the Test Driven Development (TDD) process.
+I focused on the use of unit tests explaining the benefit of finding errors during build phase (shift left), in some cases projects used Test Driven Development (TDD) methodology.
 
-I'm setting up the build server with Jenkins and a first approach to a CICD pipeline.
+I requested a build server with Jenkins and laid the groundwork for a CICD pipeline.
 
 ## Tools Used
 ServiceNow SNOW
@@ -58,7 +58,7 @@ Github
 Jenkins
 
 ## Main Tasks
-Responsible for the Aduno Gruppe (old Viseca company) applications
+Responsible for the Aduno Gruppe (now Viseca) applications
 
 WEB sites, WEB applications, Web Services, CRM Issuing, Acquirer Suite
 - Aduno Website (dismissed)
@@ -75,6 +75,6 @@ Leading teams in different areas, hiring
 - .Net
 - SQL
 
-Implement a common strategy to align all teams on the same development process  
+Implement a common strategy to align all teams on the same development process and tools 
 
 Define and implement the CICD infrastructure, base for the shared library

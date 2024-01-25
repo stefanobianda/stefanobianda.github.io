@@ -1,7 +1,7 @@
 ---
 title: "Viseca"
 permalink: /jobs/J07Viseca/
-excerpt: "Principal DevOps Engineer - Head of Software Development of CICD"
+excerpt: "Head of CICD development - DevOps Principal"
 layout: single
 redirect_from:
   - /theme-setup/
@@ -31,8 +31,8 @@ From April 2017 to August 2023
 ## Description
 In Viseca Payment Services and in Viseca Card Services we are developing different applications.
 
-To have a governance on the build process of the entire portfolio of applications,
-I define and setup the Jenkins shared pipeline.
+To have governance over the build process of the entire application portfolio,
+I define and configure the Jenkins shared pipeline.
 
 The shared pipeline is developed independently of the project.
 The project should manage 2 simple files and follow some standardization.

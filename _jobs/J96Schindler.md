@@ -32,7 +32,7 @@ From  September 2005 to December 2011
 Head software development R&D of the most successful, most worldwide sold elevator of Schindler.
 
 Responsible for full cycle development of the elevator software solution,
-with teams distributed in Locarno, Ebikon and Stuttgart, and external partners (BBV - Lucerne)
+around 30 engineer distributed in Locarno, Ebikon and Stuttgart, and external partners (BBV - Lucerne)
 
 Thanks to my great team, we are extending the capabilities of our product.
 We support different traction system, different doors type, double entrances, duplex system, 25 floors.
