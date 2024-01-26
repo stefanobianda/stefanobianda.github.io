@@ -20,7 +20,7 @@ title                    : "Stefano Bianda"
 title_separator          : "-"
 subtitle                 : "Welcome to my website" # site tagline that appears below site title in masthead
 name                     : "Stefano Bianda"
-description              : "I am a software developer manager."
+description              : "Head of Software Development."
 url                      : "https://stefanobianda.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "stefanobianda/stefanobianda.github.io"
