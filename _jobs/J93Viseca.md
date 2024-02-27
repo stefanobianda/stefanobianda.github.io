@@ -32,7 +32,7 @@ From April 2017 to August 2023
 In Viseca Payment Services and in Viseca Card Services we are developing different applications.
 
 To have governance over the build process of the entire application portfolio,
-I define and configure the Jenkins shared pipeline.
+I defined and configured the Jenkins shared pipeline.
 
 The shared pipeline is developed independently of the project.
 The project should manage 2 simple files and follow some standardization.
@@ -54,6 +54,15 @@ The Jenkins shared pipeline supports different languages used by different stake
 - Python
 - Typescript
 - Images for docker
+
+I am proud to have proposed and collaborated with the fantastic team of One to successfully achieve the goal of the first fully automated deployment in a production environment using Octopus Deploy.
+
+## Some numbers
+The annual budget is around CHF 800K
+
+3 developers works on the project full time and other par time on demand
+
+The shared pipeline is utilized by approximately >100 git repository (up to 20 applications)
 
 ## Tools Used
 Source Control: GitHub Enterprise

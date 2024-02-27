@@ -46,6 +46,13 @@ I focused on the use of unit tests explaining the benefit of finding errors duri
 
 I requested a build server with Jenkins and laid the groundwork for a CICD pipeline.
 
+## Some numbers
+Budget for the managed applications is around CHF 3M/y
+
+, 30-50 developers
+
+Up to 20 organization in Github, more then 100 git repositories 
+
 ## Tools Used
 ServiceNow SNOW
 

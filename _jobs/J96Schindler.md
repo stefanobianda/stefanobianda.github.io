@@ -32,10 +32,13 @@ From  September 2005 to December 2011
 Head software development R&D of the most successful, most worldwide sold elevator of Schindler.
 
 Responsible for full cycle development of the elevator software solution,
-around 30 engineer distributed in Locarno, Ebikon and Stuttgart, and external partners (BBV - Lucerne)
+around 25 engineer distributed in Locarno, Ebikon and Stuttgart, and external partners (BBV - Lucerne)
 
 Thanks to my great team, we are extending the capabilities of our product.
 We support different traction system, different doors type, double entrances, duplex system, 25 floors.
+
+The software run on different hardware, for new installation but also for modernization.
+The layer introduced has also allowed us to develop a windows application where it is possible to test the operation of the core software.
 
 One of my goal was to improve the quality of our main software and
 I'm proud to say that the MTBF is increased from 2 to 12 months.
@@ -45,6 +48,13 @@ the Landing Operating Panels (LOP) are written in assembler.
 
 The common used protocol for the communication is the CAN bus,
 exception are the LOP's that are using a proprietary protocol called Biobus.
+
+## Some numbers
+The annual budget is around CHF 4M pro year
+
+Engineers working on the project are 20-25
+
+The Bionc Lift is sold worldwide (except USA), with approximately 70’000 installations pro year
 
 ## Tools Used
 Clear Case
