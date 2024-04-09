@@ -1,6 +1,6 @@
 ---
 title: "Administering Microsoft Windows"
-permalink: /courses/SunSystemAdministrator/
+permalink: /courses/DigicompWindowsNT/
 layout: single
 excerpt: "Digicomp"
 author_profile: true
