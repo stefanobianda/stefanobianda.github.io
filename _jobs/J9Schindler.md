@@ -1,23 +1,20 @@
 ---
 title: "Schindler"
-permalink: /jobs/J02Schindler/
-excerpt: "Software Development by R&D DT-COM"
+permalink: /jobs/J1Schindler/
+excerpt: "Software Development by R&D DT-COM - Engineer for Tecnica Qualità Print"
 layout: single
 redirect_from:
   - /theme-setup/
 author_profile: true
 toc: true
-order_number: 98
+order_number: 9
 header:
   overlay_image: /assets/images/schindler-aufzuege-hochhaus-frankfurt-skyline-1.jpg
   og_image: /assets/images/schindler-aufzuege-hochhaus-frankfurt-skyline-1.jpg
   teaser: /assets/images/schindler-aufzuege-hochhaus-frankfurt-skyline-1.jpg
-prev:
-  url: /jobs/J01Schindler/
-  title: J01Schindler
 next:
-  url: /jobs/J03LaPosta/
-  title: J03LaPosta
+  url: /jobs/J2LaPosta/
+  title: J2LaPosta
 ---
 # Schindler
 
@@ -26,9 +23,26 @@ next:
 [www.schindler.ch](https://www.schindler.ch)
 
 ## Working Period
-From  May 1998 to January 2001
+From  June 1992 to January 2001
 
 ## Description
+For my first job at Schindler, I was responsible for programming tests for the PCBs produced in Locarno. Right from the start, I handled the administrative part of the system. 
+
+My passion for software development led me to change departments, transitioning to the development of the new elevator concept proposed by Locarno: simple, standardized, and innovative (SMART).
+
+## Details
+
+### At the begin
+Schindler is one of the largest industries in the elevator market.
+Locarno produces some electronic PCBs for different types of elevators.
+
+To test the PCBs produced, Schindler purchased the GenRad GR2756.
+
+The GenRad GR2756 is a complex system with many instruments.
+The measuring instruments of the GR2756 system are connected to the PCB via a nail board.
+The developed program uses a variety of measuring instruments and verifies the correct assembly of components on the PCB.
+
+### Moved on R&D
 Schindler is working on a new elevator system using new technology and new concept. 
 The main scope is a low cost and configurable elevator (SMART).
 
@@ -47,6 +61,12 @@ All bugs are collected in a bug tracking system.
 We are managing the priority of the bugs and planing the fix of it.
 
 ## Tools Used
+workstation unix
+
+PC WindowsNT
+
+shell scripts
+
 UML tool: Rational Rose 98
 
 OS: Linux Real Time with multi task
@@ -68,5 +88,13 @@ Use Case Analysis and write the Softare Requirement Specification (SRS)
 
 Object Oriented Design (OOD) with UML, generate code with Rational Rose 98
 
-## Job reference
-I will send the reference by e-mail on request.
+Introduction of the new system GenRad GR2756
+
+Develop and assure the quality of the test program
+
+Generate the required file for the building of the nail board
+
+Work on the statistic program TRACS, control system on the repair of defective PCBs
+
+IT infrastructure of the team, UNIX and Windows NT
+

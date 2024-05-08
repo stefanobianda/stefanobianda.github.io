@@ -1,23 +1,23 @@
 ---
 title: "La Posta"
-permalink: /jobs/J03LaPosta/
+permalink: /jobs/J2LaPosta/
 excerpt: "Software Development Engineer"
 layout: single
 redirect_from:
   - /theme-setup/
 author_profile: true
 toc: true
-order_number: 97
+order_number: 8
 header:
   overlay_image: /assets/images/LaPostaPaccoTransito.jpg
   og_image: /assets/images/LaPostaPaccoTransito.jpg
   teaser: /assets/images/LaPostaPaccoTransito.jpg
 prev:
-  url: /jobs/J02Schindler/
-  title: J02Schindler
+  url: /jobs/J1Schindler/
+  title: J1Schindler
 next:
-  url: /jobs/J04Schindler/
-  title: J04Schindler
+  url: /jobs/J3Schindler/
+  title: J3Schindler
 ---
 # Swiss Post
 
@@ -29,6 +29,13 @@ next:
 From  February 2001 to August 2005
 
 ## Description
+My interest in web applications led me to “La Posta”, where I had the opportunity to implement a web application in JAVA and JSP, using EJB for communication with the Oracle database.
+
+The project, initiated by the main office in Bern, consisted of generating a PDF document with customer data. My collaboration with various stakeholders met expectations. Upon the implementation of the solution, there were performance issues, but thanks to my problem-solving skills, I was able to successfully resolve the problem.
+
+Thanks to my predisposition for teamwork and collaboration, I supported some colleagues and suggested improvements to make their project more robust and with a high-quality.
+
+## Details
 I'm developing the International Online Application (IOA), 
 the application is a digitalization of a manual process.
 
@@ -59,5 +66,3 @@ Using Oracle DB
 
 Implementation with EJB
 
-## Job reference
-I will send the reference by e-mail on request.
