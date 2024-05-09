@@ -11,19 +11,23 @@ header:
 posts: false
 ---
 ## Job experience
-I have a strong experience in software development.
+I have a wide experience in software development, with 30 years as a technical project leader and almost 20 years as a development team leader in embedded and web applications.
 
-For 25 years I am leading projects as Technical Project Leader and 15+ years as Head of the development team in embedded and web applications.
+The team I lead consists of 30-50 engineers, and the annual budget is CHF 4 million per year.
 
-The quality of the software is for me a priority: in Viseca the overall releasability of the projects has increased since I have introduced the automated process and controls; in Schindler the MTBF is passed from 2 to 12 months.
+I am passionate about technology and aim to create added value for stakeholders by using my creativity and innovating tools and processes.
 
-I proposed and implemented the digital transformation and automation of the building process: all projects are using the shared pipeline, the quality of the software is increased and the manual deploy is replaced by tools. I also push for containers with docker and kubernetes, supporting cloud native applications.
+I enjoy working in a team and am motivated to handle complex solutions in a professional manner.
 
-I grouped different teams and align the strategy of building the software using the same tools and processes, enforcing the use of unit test (TDD).
+I coordinated and lead complex projects, I solved many problems by analyzing and understanding the root cause.
 
-I coordinated and lead complex projects, I solved many problems by analysing and understanding the root cause.
+Software quality is a priority for me, which is why I focus on automating the development process, standardizing the use of a shared infrastructure for the continuous improvement of the software quality of all company projects.
 
-I love technology and aim to create added value for my stakeholder using my creativity and innovate tools and processes.
+I proposed and implemented the digital transformation and automation of the building process: all projects are using the shared pipeline, the quality of the software is increased and the manual deploy is replaced by tools. 
+
+I push for containers with docker and kubernetes, supporting cloud native applications.
+
+My mother tongue is Italian, but over the years I have learnt to communicate effectively with the various teams and stakeholders in German, English and French.
 
 ## Curriculum Vitae
-Download my [CV](/assets/files/StefanoBiandaCV-EN.pdf)
+Connect with me on LinkedIn or email me for my CV.
