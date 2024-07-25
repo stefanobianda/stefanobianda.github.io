@@ -8,7 +8,7 @@ entries_layout: list
 classes: wide
 sort_by: date
 sort_order: reverse
-tagline: All my courses (ongoing)
+tagline: All my courses
 toc: true
 header:
   overlay_image: /assets/images/training-backimage.jpg
