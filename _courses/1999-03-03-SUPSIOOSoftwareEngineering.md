@@ -1,6 +1,6 @@
 ---
-title: "Gestione Progetti - Elementi Fondamentali"
-permalink: /courses/SUPSIElementiFondamentali2003/
+title: "Object Oriented Software Engineering"
+permalink: /courses/SUPSIOOED1999/
 layout: single
 excerpt: "SUPSI"
 author_profile: true
@@ -13,10 +13,10 @@ header:
 ---
 # SUPSI - Scuola Universitaria Professionale della Svizzera Italiana
 
-Successfully completed the Project Management
+Successfully completed the course
 
-Fundamental Elements Certificate
+Object Oriented Software Engineering
 
-Release date:  19 August 2003
+Release date:  02 December 1998 - 03 March 1999
 
-
+4 crediti di studio ECTS

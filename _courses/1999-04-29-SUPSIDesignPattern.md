@@ -1,6 +1,6 @@
 ---
-title: "Gestione Progetti - Elementi Fondamentali"
-permalink: /courses/SUPSIElementiFondamentali2003/
+title: "Design Patterns"
+permalink: /courses/SUPSIDesignPattern1999/
 layout: single
 excerpt: "SUPSI"
 author_profile: true
@@ -13,10 +13,12 @@ header:
 ---
 # SUPSI - Scuola Universitaria Professionale della Svizzera Italiana
 
-Successfully completed the Project Management
+Successfully completed the training
 
-Fundamental Elements Certificate
+Design Patterns: modelli di riutilizzo del design object-oriented
 
-Release date:  19 August 2003
+Release date:  15-29 April 1999
+
+2 crediti di studio ECTS
 
 
