@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "My working career"
-excerpt: "all around software development"
+excerpt: "Project and team leader software development"
 permalink: /jobs/
 collection: jobs
 entries_layout: grid
@@ -14,4 +14,4 @@ header:
   teaser: /assets/images/codice-binario-byte.jpg
 ---
 
-Positions held in the work environment since I completed my master's degree in electrical engineering
+The positions held in the companies where I worked after completing my master's degree in electronics.

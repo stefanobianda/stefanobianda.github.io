@@ -1,8 +1,8 @@
 ---
-title: "Schindler"
+title: "Head of Software Development by R&D-CO"
 permalink: /jobs/J3Schindler/
 layout: single
-excerpt: "Head of Software Development by R&D-CO"
+excerpt: "Schindler"
 redirect_from:
   - /theme-setup/
 author_profile: true

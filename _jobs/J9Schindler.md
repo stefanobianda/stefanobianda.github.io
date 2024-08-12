@@ -1,7 +1,7 @@
 ---
-title: "Schindler"
+title: "Software Development by R&D DT-COM"
 permalink: /jobs/J1Schindler/
-excerpt: "Software Development by R&D DT-COM - Engineer for Tecnica Qualità Print"
+excerpt: "Schindler"
 layout: single
 redirect_from:
   - /theme-setup/

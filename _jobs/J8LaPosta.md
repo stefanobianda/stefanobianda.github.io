@@ -1,7 +1,7 @@
 ---
-title: "La Posta"
+title: "Software Development Engineer"
 permalink: /jobs/J2LaPosta/
-excerpt: "Software Development Engineer"
+excerpt: "La Posta"
 layout: single
 redirect_from:
   - /theme-setup/
