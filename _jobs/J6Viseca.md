@@ -27,10 +27,12 @@ Responsible for developing applications for credit card payments using Agile met
 
 ## Achievements
 
-### Budget control and meeting deadlines
+### Monitoring the budget and release planning
 Successfully managed conflicts and ensured customer satisfaction within timelines and budgets despite changes in project schedules and priorities (ERP ServiceNow).
 
-When the company introduced ITIL and ServiceNow, I highlighted to my superiors that the process conflicted with Agile, particularly for website development. They didn't listen and forced me to follow the defined process. Delays in implementing simple changes led to us losing website development projects.
+When the company introduced ITIL and ServiceNow, costs and production releases were under control. 
+
+I highlighted to my superiors that the process conflicted with Agile, particularly for website development. They didn't listen and forced me to follow the defined process. Delays in implementing simple changes led to the loss of website development projects.
 
 ### Standardization of the development process and automation
 Standardized the development process and automated it through a shared CI/CD pipeline for Java, .NET, .NET Core, TypeScript, Python, and Docker images
@@ -56,8 +58,8 @@ By centralizing the build process in Jenkins, I gained governance over the entir
 
 Isolated environment builds addressed production release issues related to overlooked dependencies.
 
-### Establishing a unit testing culture (NUnit, XUnit, JUnit, Selenium)
-Establishing a unit test culture and promotion of Test-Driven Development (TDD) practices where applicable.
+### Establishment of a unit testing culture (NUnit, XUnit, JUnit, Selenium)
+Establishment of a unit test culture and promotion of Test-Driven Development (TDD) practices where applicable.
 
 When I took over the development team, no project included unit tests. I initiated unit testing to improve code quality (shift left), implementing simple unit tests for legacy code and promoting Test-Driven Development (TDD) for new projects, which was successful, as demonstrated by the data migration project. Test coverage is continuously increasing, improving code quality.
 
@@ -66,8 +68,20 @@ Integrated static analysis with SonarQube into the pipeline, significantly enhan
 
 Through the use of SonarQube, we maintain quality control over the code produced in the company. The adoption of quality gates ensures continuous improvement. Making the quality levels of each project public has motivated developers to improve their code.
  
-### Implementation of company’s Definitive Media Library (Artifactory, maven, nuget)
+### Implementation of company’s Definitive Media Library (Artifactory)
+Configuration of JFrog Artifactory as the company’s DML for artifact storage and dependency repositories. 
+
+All versions are identified using SemVer2, with development and production releases cataloged in separate repositories.
+Developer access to Artifactory for dependency downloads from known repository.
+
+Type of packages: Maven, NuGet, PyPI (python), Docker, Conda, Helm, npm, Bower
+
 ### Verification of dependency Security Gates (Xray)
+Integration of security checks on package dependencies with Xray into the pipeline, with processing stoppage in case of high risk.
+
+Security is becoming increasingly relevant, and monitoring the dependencies used in developed applications has become very important. 
+Xray is an easy way to proactively identify vulnerabilities on open source and license compliance violations.
+
 ### Automatic deploy in all environments (Octopus Deploy)
 Configuration of automatic deployment with Octopus Deploy across various environments.
 
@@ -79,69 +93,54 @@ Oversight of the agile development of the CI/CD pipeline, including code reviews
 ### Regular update of the CI/CD infrastructure (security patches)
 Maintenance of the CI/CD infrastructure through tool updates and application of security patches.
 
-### Innovator culture promoter (Docker, Ansible, TDD)
+Regular updates of the tools every three months, or sooner in the case of critical vulnerabilities. Planning of upgrades, often with significant impacts on the pipeline, while minimizing changes on projects.
+
+### Innovation culture advocate (Automation, Docker, IaC, TDD)
+Automation of the development process, promotion of Docker and Kubernetes usage, support for infrastructure through Ansible, implementation of TDD methodology in new projects.
+
+
+
 ### Continuous improvement and collaborative environment (DevOps)
 Fostering of a collaborative environment, with initiatives to make project data visible driving continuous improvement in applications.
 
 
 ## Tools Used
-Source Control: GitHub Enterprise
+- Source Control: GitHub Enterprise
+- Build Server: Jenkins (controller and nodes)
+- Static Code Analysis: Sonarqube
+- DML, Dependency repositories: Jfrog Artifactory
+- Software Composition Analysis (SCA): Jfrog Xray
+- Deployment DevOps automation: Octopus Deploy
+- Programming languages: Groovy and Java
+- Enterprise resource planning (ERP): ServiceNow SNOW
+- Project Management: Jira
 
-Responsible for the tools:
-- GitHub
-- Jenkins
-- Sonarqube
-- Jfrog Artifactory
-- Jfrog Xray
-- Octopus Deploy
-
-Programming languages: Groovy and Java
-
-ServiceNow SNOW
-
-JIRA
-
-MS Project
 
 ## Main Tasks
-Product Owner and Scrum Master of CICD shared pipeline
-
-Leading team, agile methodology, test driven development, code review
-
-Iterative and continuous improvement
-
-Managing team’s backlog and product quality
-
-Developing the team’s technical proficiency and growing
-
-Introduces and improves to software development automations (CI/CD)
-
-Keep CICD infrastructure up-to-date, LCM activities
-
-Responsible for the Aduno Gruppe (now Viseca) applications
-
-WEB sites, WEB applications, Web Services, CRM Issuing, Acquirer Suite
-- Aduno Website (dismissed)
-- [Viseca](https://www.viseca.ch)
-- [Surprize](https://one-digitalservice.ch/public/en/surprize) today moved on [One](https://one-digitalservice.ch/)
-- [Cashgate](https://www.cashgate.ch/) (sell to Cembra)
-- AGIOS (Internal CRM, JAVA)
-- Trident (dismissed, PLSQL Suite)
-
-Developing with ITIL and AGILE methodology, use of TDD and CICD pipeline
-
-Leading teams in different areas, hiring
-- Java
-- .Net
-- SQL
-
-Implement a common strategy to align all teams on the same development process and tools 
-
-Maintenance and support for applications in the credit card payment environment
-
-Support the new application Surprize
-
-Support the Terminal Card Reader
+- Product Owner and Scrum Master of CICD shared pipeline
+- Leading team, agile methodology, test driven development, code review
+- Iterative and continuous improvement
+- Managing team’s backlog and product quality
+- Developing the team’s technical proficiency and growing
+- Introduces and improves to software development automations (CI/CD)
+- Keep CICD infrastructure up-to-date, LCM activities
+- Responsible for the Aduno Gruppe (now Viseca) applications
+- WEB sites, WEB applications, Web Services, CRM Issuing, Acquirer Suite
+  - Aduno Website (dismissed)
+  - [Viseca](https://www.viseca.ch)
+  - [Surprize](https://one-digitalservice.ch/public/en/surprize) today moved on [One](https://one-digitalservice.ch/)
+  - [Cashgate](https://www.cashgate.ch/) (sell to Cembra)
+  - AGIOS (Internal CRM, JAVA)
+  - Trident (dismissed, PLSQL Suite)
+- Developing with ITIL and AGILE methodology, use of TDD and CICD pipeline
+- Leading teams in different areas, hiring
+  - Java
+  - .Net
+  - SQL
+- Implement a common strategy to align all teams on the same development process and tools 
+- Maintenance and support for applications in the credit card payment environment
+- Support the new application Surprize
+- Support the Terminal Card Reader
 
 ## Job reference
 I will send the reference by e-mail on request.
