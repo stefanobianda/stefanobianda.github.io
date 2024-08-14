@@ -25,42 +25,54 @@ next:
 From  February 2001 to August 2005
 
 ## Description
-My interest in web applications led me to “La Posta”, where I had the opportunity to implement a web application in JAVA and JSP, using EJB for communication with the Oracle database.
-
-The project, initiated by the main office in Bern, consisted of generating a PDF document with customer data. My collaboration with various stakeholders met expectations. Upon the implementation of the solution, there were performance issues, but thanks to my problem-solving skills, I was able to successfully resolve the problem.
-
-Thanks to my predisposition for teamwork and collaboration, I supported some colleagues and suggested improvements to make their project more robust and with a high-quality.
-
-## Details
-I'm developing the International Online Application (IOA), 
-the application is a digitalization of a manual process.
-
-The companies that use the international bulk mailing have to compile a document manually.
-The catalogue of the price of each category of bulk mail is complex and change regularly (at least for the new year).
-The IOA is an application that the users can use and fill out the document online and produce the necessary PDF files.
-With the login, we are able to identify the users and apply the specific catalogue of items and prices.
-
-The catalogue prices are changing for different reason every year,
-the IOA enable the preview of the new catalogues with the new prices.
-
-The IOA use a Oracle DB to keep all catalogue items and prices.
-I'm using EJB to collect the required data from the Oracle DB.
-
-For the other application (see [here](#main-tasks)) I just collaborate with my great colleagues.
-## Tools Used
-J2EE (JAVA)
-
-Source Control: SVN 
+Software developer for web applications in Java using JSP, employing EJB for communication with the Oracle database.
 
 ## Main Tasks
-Develop JAVA Web Applications
-- IOA International Online Application, replaced by [bulk mailing](https://www.post.ch/en/sending-letters/bulk-mailing-of-letters/international-bulk-mailings)
-- SGO Service Guide Online, replaced by [Calculate prices](https://service.post.ch/vsc/info)
-- Packet Builder (GUI section)
+- Development of JAVA Web Applications
+  - IOA International Online Application, replaced by [bulk mailing](https://www.post.ch/en/sending-letters/bulk-mailing-of-letters/international-bulk-mailings)
+  - SGO Service Guide Online, replaced by [Calculate prices](https://service.post.ch/vsc/info)
+  - Packet Builder (GUI section)
+- Definition of the tables and relationships of the Oracle database.
+- Code languages
+  - Java
+  - EJB
+  - PL/SQL
 
-Using Oracle DB
+## Tools Used
+- Source Control: SVN
+- IDE: Eclipse
+- Database: Oracle
 
-Implementation with EJB
+## Technologies
+- Java
+- J2EE
+- EJB
+- JSP
+- HTML
+- XML
+- PL/SQL
+- PDF
+- Spring framework
+
+# Achievements
+
+## Digitalization of a manual process
+Generation of a PDF document containing collected client data.
+
+The IOA application allows companies that use international bulk mailing to fill out documents online instead of manually and to generate the necessary PDFs.
+
+## Successful resolution of performance issues
+During the implementation of the solution, performance issues emerged. my problem-solving skills allowed me to resolve them effectively.
+
+## Refactoring and improving colleagues' projects.
+Leveraging my strong teamwork and collaboration skills, I provided support to colleagues and recommended enhancements to strengthen their projects and improve quality.
+
+# Notable results
+- Digitalization of documents in PDF format
+- Performance improvements: PDF file generation is now 10x faster
+
+
+
 
 ![Post](/assets/images/PostNewLogo.png)
 

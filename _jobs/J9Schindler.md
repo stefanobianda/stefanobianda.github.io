@@ -22,77 +22,77 @@ next:
 From  June 1992 to January 2001
 
 ## Description
-For my first job at Schindler, I was responsible for programming tests for the PCBs produced in Locarno. Right from the start, I handled the administrative part of the system. 
+Development of test programs for electronic boards and active participation in the R&D of Locarno's innovative SMART elevator concept.
 
-My passion for software development led me to change departments, transitioning to the development of the new elevator concept proposed by Locarno: simple, standardized, and innovative (SMART).
+### Engineer for Print Quality Technology
+Schindler is one of the largest companies in the elevator market, and Locarno produces electronic PCBs for various types of elevators.
 
-## Details
+Schindler acquired the GenRad GR2756 to test its PCBs. 
+This complex system connects measuring instruments to the PCB via a nail board, enabling the program to verify the correct assembly of components.
 
-### At the begin
-Schindler is one of the largest industries in the elevator market.
-Locarno produces some electronic PCBs for different types of elevators.
-
-To test the PCBs produced, Schindler purchased the GenRad GR2756.
-
-The GenRad GR2756 is a complex system with many instruments.
-The measuring instruments of the GR2756 system are connected to the PCB via a nail board.
-The developed program uses a variety of measuring instruments and verifies the correct assembly of components on the PCB.
-
-### Moved on R&D
+### Software Development Engineer
 Schindler is working on a new elevator system using new technology and new concept. 
 The main scope is a low cost and configurable elevator (SMART).
 
 The development of the embedded core system is in Object Oriented (C++). 
-The core team is in Locarno, and we implement the project with the support of BBV.
 
-I'm writing Software Requirement Specification (SRS) that define how the system must react on specific situation.
-The code is implemented following the SRS's and with the SRS we also define the Test Cases.
-
-We are developing iteratively and the iteration is 1 month length.
-
-The tests are done with hardware simulator's. 
-Depending on the new functionality implemented in the iteration, we define the test strategy.
-
-All bugs are collected in a bug tracking system. 
-We are managing the priority of the bugs and planing the fix of it.
-
-## Tools Used
-workstation unix
-
-PC WindowsNT
-
-shell scripts
-
-UML tool: Rational Rose 98
-
-OS: Linux Real Time with multi task
-
-Programming Language: C++
-
-Source Control: SouceSafe
 
 ## Main Tasks
-Project Leader with RUP methodology
+- Project Leader with RUP methodology
+- Define concept of Test Cases, Test Strategy and Test Agreement
+- Backlog management
+- Iteration development with campaign of manual test to improve the quality of the developed software
+- Use Case Analysis and write the Software Requirement Specification (SRS)
+- Object Oriented Design (OOD) with UML, generate code with Rational Rose 98
+- Introduction of the new system GenRad GR2756
+- Develop and assure the quality of the test program
+- Generate the required file for the building of the nail board
+- Work on the statistic program TRACS, control system on the repair of defective PCBs
+- IT infrastructure of the team, UNIX and Windows NT
 
-Define concept of Test Cases, Test Strategy and Test Agreement
+## Tools Used
+- workstation unix
+- PC WindowsNT
+- shell scripts
+- UML tool: Rational Rose 98
+- OS: Linux Real Time with multi task
+- Programming Language: C++
+- Source Control: SouceSafe
 
-Backlog management
+## Technologies
+- Basic
+- C++
+- Unix
+- UML
+- Code Generation
+- SRS
+- Test Case
+- Test Suite
+- Test Agreement
 
-Iteration development with campaign of manual test to improve the quality of the developed software
+# Achievements
 
-Use Case Analysis and write the Softare Requirement Specification (SRS)
+## Automatic data generation for the construction of the nail adapter
+The contact positions on the PCB are processed by a shell script, transforming them into the necessary information for constructing the nail adapter.
 
-Object Oriented Design (OOD) with UML, generate code with Rational Rose 98
+## Implementation of the first test program on the GR2756
+I am proud to have created the first test program on the GR2756.
 
-Introduction of the new system GenRad GR2756
+## Documentation of software requirement specifications (SRS)
+Documentation of behavior for a complex real-time multitasking project using SRS. 
 
-Develop and assure the quality of the test program
+Detailed SRS covering initial conditions, trigger, expected behavior, final condition, and alternatives for unexpected events.
 
-Generate the required file for the building of the nail board
+## Definition of test aspects for continuous product improvement, test cases and test suite
+Definition of Test Case, Test Suite and Test Agreement.
 
-Work on the statistic program TRACS, control system on the repair of defective PCBs
+The software version tests are conducted using hardware simulators. 
+From the Software Requirements Specification (SRS), we create Test Cases and categorize them. 
+The Test Suite defines which categories must be tested for the software release (test, release candidate, official). 
+The Test Agreement is the final document resulting from the Test Suite, completed by testers who execute the Test Cases on the hardware simulator.
 
-IT infrastructure of the team, UNIX and Windows NT
+
+
 
 
 ![Schindler](/assets/images/schindler-hd-logo-thumbnail.png)

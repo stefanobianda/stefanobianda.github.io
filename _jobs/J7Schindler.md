@@ -64,6 +64,7 @@ exception are the LOP's that are using a proprietary protocol called Biobus.
 - C++ (main controller)
 - C (Low level)
 - Assembler (LOPs)
+- CAN protocol
 - Unix
 - Multi-Thread
 - Embedded
