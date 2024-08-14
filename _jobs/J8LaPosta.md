@@ -19,13 +19,9 @@ next:
   url: /jobs/J3Schindler/
   title: J3Schindler
 ---
-# Swiss Post
 
-![Post](/assets/images/PostNewLogo.png)
+# Software Development Engineer
 
-[www.post.ch](https://www.post.ch/)
-
-## Working Period
 From  February 2001 to August 2005
 
 ## Description
@@ -66,3 +62,6 @@ Using Oracle DB
 
 Implementation with EJB
 
+![Post](/assets/images/PostNewLogo.png)
+
+[www.post.ch](https://www.post.ch/)

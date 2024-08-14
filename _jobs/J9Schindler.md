@@ -16,13 +16,9 @@ next:
   url: /jobs/J2LaPosta/
   title: J2LaPosta
 ---
-# Schindler
 
-![Schindler](/assets/images/schindler-hd-logo-thumbnail.png)
+# Software Development by R&D DT-COM
 
-[www.schindler.ch](https://www.schindler.ch)
-
-## Working Period
 From  June 1992 to January 2001
 
 ## Description
@@ -97,4 +93,10 @@ Generate the required file for the building of the nail board
 Work on the statistic program TRACS, control system on the repair of defective PCBs
 
 IT infrastructure of the team, UNIX and Windows NT
+
+
+![Schindler](/assets/images/schindler-hd-logo-thumbnail.png)
+
+[www.schindler.ch](https://www.schindler.ch)
+
 
