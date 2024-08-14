@@ -19,7 +19,7 @@ My passion for **innovation** drives me to automate development processes and **
 
 I spearheaded **digital transformation** and building **process automation**	 across all projects, promoting containerization with Docker and Kubernetes to support cloud-native applications. 
 
-I excel in coordinating complex projects, solving problems by addressing root causes, and working collaboratively in a team environment.
+I excel in coordinating complex projects and solving problems by addressing root causes; I enjoy working in a team and collaborating constructively.
 
 My mother tongue is Italian, and over the years, I have learned to communicate effectively with various teams and stakeholders in German, English, and French.
 

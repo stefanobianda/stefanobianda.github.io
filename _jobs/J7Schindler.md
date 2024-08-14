@@ -128,8 +128,8 @@ SOLID principles:
 - Interface Segregation Principle (ISP)
 - Dependency Inversion Principle (DIP)
 
-## Single software development for new applications and modernization with different hardware.
-New installations or modernizations, although with different hardware and peripherals, always using the same release.
+## Development of a single software for new installations and modernization..
+New installations or modernizations, although with different hardware and peripherals, always using the same software.
 
 A new installation has a defined type of drive, door, Car Operating Panel (COP), and Landing Operating Panel (LOP).
 In contrast, a modernization installation features different drives, different door types, and different COPs and LOPs.
@@ -169,14 +169,13 @@ Through recording the events preceding fatal errors, we were able to identify th
 # Notable results
 - Quality: 
   - Improvement of Mean Time Between Failures (MTBF) from 2 months to 12 months.
-- Expansion of functionalities:
+- Increase of functionalities:
   - from 10 floors to 25 floors
   - added double doors functionality
   - from 10 to 50 fire fighter solutions
   - added semi-automatic and manual door system
   - from single to double installation (3 installations was in planing)
   - added multiple drive type for modernization
-
 
 
 ![Schindler](/assets/images/schindler-hd-logo-thumbnail.png)

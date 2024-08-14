@@ -109,7 +109,7 @@ By centralizing the build process in Jenkins, I gained governance over the entir
 
 Isolated environment builds addressed production release issues related to overlooked dependencies.
 
-## Establishment of a unit testing culture (NUnit, XUnit, JUnit, Selenium)
+## Establishment of a unit testing culture
 Establishment of a unit test culture and promotion of Test-Driven Development (TDD) practices where applicable.
 
 When I took over the development team, no project included unit tests. I initiated unit testing to improve code quality (shift left), implementing simple unit tests for legacy code and promoting Test-Driven Development (TDD) for new projects, which was successful, as demonstrated by the data migration project. Test coverage is continuously increasing, improving code quality.
@@ -154,7 +154,7 @@ Innovation activities resulting in new process or new technology
 - Promotion of Infrastructure as Code (IaC) through Ansible
 - Implementation of TDD methodology in new projects
 
-## Team leadership and collaborative environment (DevOps)
+## Continuous improvement and team collaboration (DevOps)
 My leadership established a collaborative and competitive environment optimal for continuous improvement.
 
 After the migration to GitHub Enterprise, presenting an animated representation of the commits with the developer's name strengthened the team spirit and their commitment to the team, see [gource](https://gource.io/).
@@ -168,11 +168,11 @@ Unfortunately, my boss was not very enthusiastic about it.
 
 
 # Notable results
-- Migration of 60+ projects to GitHub Enterprise, preserving history without loss
-- Implementation of Unit Test in 40+ projects
-- TDD methodology in some projects
-- Utilization of shared CI/CD pipeline by 50+ projects 
-- First automatic deploy with Octopus Deploy in PROD environment
+- Migration of over 60 projects to GitHub Enterprise, preserving history without loss
+- Implementation of Unit Test in over 40 projects (NUnit, XUnit, JUnit, Selenium)
+- Use of TDD methodology in some projects
+- Over 50 projects utilize the shared CI/CD pipeline (Java, .NET, .NET Core, TypeScript, Python, and Docker images)
+- First automatic deploy with Octopus Deploy in PROD environment (now over 10 projects).
 - Proactive security dependency detection, resulting in the discovery of the first security issue.
 
 
