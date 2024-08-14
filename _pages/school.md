@@ -12,7 +12,7 @@ author_profile: true
 
 
 
-### Swiss Federal Institute of Technology, Zürich (ETH)
+## Swiss Federal Institute of Technology, Zürich (ETH)
 From October 1987 to June 1991
 
 Master May 1992 as Electronic Engineer
@@ -22,17 +22,17 @@ Master on VLSI, see the [Sigma Delta Converter](http://asic.ethz.ch/1991/Sigma.h
 Documents: [diplom](/assets/files/Diploma.pdf) and [school grades](/assets/files/DiplomaNote.pdf)
 
 
-### High School, Locarno
+## High School, Locarno
 From September 1983 to June 1987
 
 High school, Typ C (Scientific)
 
 Document: [school grades](/assets/files/Maturita.pdf)
 
-### Middle School, Losone
+## Middle School, Losone
 From September 1979 to June 1983
 
 
-### Elementary School, Solduno & Losone
+## Elementary School, Solduno & Losone
 From September 1974 to June 1979
 

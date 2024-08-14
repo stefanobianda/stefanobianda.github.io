@@ -11,23 +11,17 @@ header:
 posts: false
 ---
 ## Job experience
-I have a wide experience in software development, with 30 years as a technical project leader and almost 20 years as a development team leader in embedded and web applications.
+With 30 years as a **Technical Project Leader** and nearly 20 years as a **Development Team Leader** in embedded and web applications, I have extensive experience in software development.
 
-The team I lead consists of 30-50 engineers, and the annual budget is CHF 4 million per year.
+I lead a team of 30-50 engineers with an annual budget of CHF 4 million, focusing on technology-driven solutions that add value for stakeholders. 
 
-I am passionate about technology and aim to create added value for stakeholders by using my creativity and innovating tools and processes.
+My passion for innovation drives me to automate development processes and standardize infrastructure to improve software quality. 
 
-I enjoy working in a team and am motivated to handle complex solutions in a professional manner.
+I spearheaded digital transformation and building process automation across all projects, promoting containerization with Docker and Kubernetes to support cloud-native applications. 
 
-I coordinated and lead complex projects, I solved many problems by analyzing and understanding the root cause.
+I excel in coordinating complex projects, solving problems by addressing root causes, and working collaboratively in a team environment.
 
-Software quality is a priority for me, which is why I focus on automating the development process, standardizing the use of a shared infrastructure for the continuous improvement of the software quality of all company projects.
-
-I proposed and implemented the digital transformation and automation of the building process: all projects are using the shared pipeline, the quality of the software is increased and the manual deploy is replaced by tools. 
-
-I push for containers with docker and kubernetes, supporting cloud native applications.
-
-My mother tongue is Italian, but over the years I have learnt to communicate effectively with the various teams and stakeholders in German, English and French.
+My mother tongue is Italian, and over the years, I have learned to communicate effectively with various teams and stakeholders in German, English, and French.
 
 ## Curriculum Vitae
 Connect with me on LinkedIn or email me for my CV.
