@@ -78,7 +78,7 @@ Responsible for developing applications for credit card payments using Agile met
 
 # Achievements
 
-## Budget monitoring and release planning.
+## Budget management and customer satisfaction
 Successfully managed conflicts and ensured customer satisfaction within timelines and budgets despite changes in project schedules and priorities (ERP ServiceNow).
 
 When the company introduced ITIL and ServiceNow, costs and production releases were under control. 
