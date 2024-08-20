@@ -138,6 +138,13 @@ Configuration of automatic deployment with Octopus Deploy across various environ
 
 I am proud to have proposed and collaborated with the fantastic team of One to successfully achieve the goal of the first fully automated deployment in a production environment using Octopus Deploy.
 
+## Guidance and support for the team in the IT environment and agile approach
+Provide guidance, best practices, and support to the team by offering mentoring sessions to enhance their technical skills and organizing workshops for continuous learning. 
+
+Lead and facilitate key meetings, such as daily stand-ups and sprint planning, ensuring adherence to agile practices. 
+
+Assist the team in resolving technical and organizational challenges.
+
 ## Backlog and sprint planning (Jira, Confluence)
 Oversight of the agile development of the CI/CD pipeline, including code reviews, backlog management, and sprints iteration.
 
