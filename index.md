@@ -17,9 +17,9 @@ I **lead** a team of 30-50 engineers with an annual budget of CHF 4 million, foc
 
 My passion for **innovation** drives me to automate development processes and **standardize** infrastructure to improve software quality. 
 
-I spearheaded **digital transformation** and building **process automation**	 across all projects, promoting containerization with Docker and Kubernetes to support cloud-native applications. 
+I played a key role in **digital transformation** and **process automation** across all projects, championing containerization with **Docker** and **Kubernetes** for cloud-native applications.
 
-I excel in coordinating complex projects and solving problems by addressing root causes; I enjoy working in a team and collaborating constructively.
+I am experienced in coordinating **complex projects** and solving problems by addressing root causes; I enjoy working in a team and collaborating constructively.
 
 My mother tongue is Italian, and over the years, I have learned to communicate effectively with various teams and stakeholders in German, English, and French.
 
