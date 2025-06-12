@@ -1,5 +1,5 @@
 ---
-title: "CTO"
+title: "Freelance Technical Consultant"
 permalink: /jobs/J5GSingul/
 excerpt: "G Singul"
 layout: single
@@ -61,4 +61,3 @@ Designed and implemented the project’s infrastructure on a public cloud platfo
 
 ![GSingul](/assets/images/GSingulLogo.jpeg)
 
-[www.gsingul.ch](https://www.gsingul.ch/)
