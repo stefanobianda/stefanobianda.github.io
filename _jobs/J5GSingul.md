@@ -17,20 +17,19 @@ prev:
   title: J4Viseca
 ---
 
-# CTO
+# Freelance Technical Consultant – EdTech MVP Collaboration
 
-Since December 2024 
+From December 2024 to May 2025
 
 ## Description
 
-Responsible for overseeing the technical side of the business.
-- Product Owner & Scrum Master
+Independent collaboration on an innovative EdTech MVP, with no employment contract.
 
 ## Main Tasks
-- Define the long term strategy
-- Define the architecture
-- Responsible for the cloud infrastructure
-- Responsible for the Software Development
+Developed the application backend using Spring Boot with RESTful APIs and full CRUD operations, enforcing role-based access control for specific functionalities to ensure security and business logic segregation.
+
+- Define the technical scope and contribute to the business plan
+- Establish the foundation for scalable, secure, and reliable software development
 
 ## Tools Used
 - Source Control: GitHub
@@ -46,12 +45,19 @@ Responsible for overseeing the technical side of the business.
 
 # Achievements
 
-## Alpha release
-We are a startup and the software is in the early developing phase.
+## Developed backend functionalities
+
+Led the implementation of core backend features and delivered the first frontend interfaces, defining the project’s architecture and setting development standards for scalability, security, and long-term maintainability.
+
+## Infrastructure on a public cloud
+
+Designed and implemented the project’s infrastructure on a public cloud platform, configuring secure and scalable instances, integrating databases and implementing authentication and authorization mechanisms.
 
 
 # Notable results
 - Setup infrastructure on public cloud
+- Developed the authentication and authorization concept
+- Built the first phase of the MVP with an admin panel and enabled efficient teacher search by subject.
 
 ![GSingul](/assets/images/GSingulLogo.jpeg)
 
