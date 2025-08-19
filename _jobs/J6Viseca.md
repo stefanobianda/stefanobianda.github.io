@@ -15,6 +15,9 @@ header:
 prev:
   url: /jobs/J3Schindler/
   title: J3Schindler
+next:
+  url: /jobs/J5Startup/
+  title: J5Startup
 ---
 
 # Head IT Application Development

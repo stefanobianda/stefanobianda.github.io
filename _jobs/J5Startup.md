@@ -1,7 +1,7 @@
 ---
 title: "Freelance Technical Consultant"
-permalink: /jobs/J5GSingul/
-excerpt: "G Singul"
+permalink: /jobs/J5Startup/
+excerpt: "Startup"
 layout: single
 redirect_from:
   - /theme-setup/
@@ -9,9 +9,9 @@ author_profile: true
 toc: true
 order_number: 5
 header:
-  overlay_image: /assets/images/GSingulLogo.jpeg
-  og_image: /assets/images/GSingulLogo.jpeg
-  teaser: /assets/images/GSingulLogo.jpeg
+  overlay_image: /assets/images/StartupLogo.jpeg
+  og_image: /assets/images/StartupLogo.jpeg
+  teaser: /assets/images/StartupLogo.jpeg
 prev:
   url: /jobs/J4Viseca/
   title: J4Viseca
@@ -19,7 +19,7 @@ prev:
 
 # Freelance Technical Consultant – EdTech MVP Collaboration
 
-From December 2024 to May 2025
+From December 2024 to July 2025
 
 ## Description
 
@@ -59,5 +59,5 @@ Designed and implemented the project’s infrastructure on a public cloud platfo
 - Developed the authentication and authorization concept
 - Built the first phase of the MVP with an admin panel and enabled efficient teacher search by subject.
 
-![GSingul](/assets/images/GSingulLogo.jpeg)
+![Startup](/assets/images/StartupLogo.jpeg)
 
