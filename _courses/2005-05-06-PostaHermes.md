@@ -17,6 +17,6 @@ Successfully completed the course
 
 HERMES 3.0 Foundation
 
-Release date:  06 May 2005
+Release date:  6 May 2005
 
 

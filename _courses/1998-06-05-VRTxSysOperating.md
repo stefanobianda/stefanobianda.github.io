@@ -17,5 +17,5 @@ Successfully completed the course
 
 VRTx System Operating
 
-Release date:  06-05 June 1998
+Release date:  5 June 1998
 
